@@ -1,0 +1,7 @@
+{
+    "javascript.format.semicolons": "remove",
+    "typescript.format.semicolons": "remove",
+    "editor.detectIndentation": false,
+    "javascript.preferences.importModuleSpecifier": "relative",
+    "typescript.preferences.importModuleSpecifier": "relative"
+}
